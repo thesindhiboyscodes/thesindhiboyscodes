@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I'm a GYM BOY**
 - 🔥 My leetCode <div> ![](https://leetcard.jacoblin.cool/asifaliabbasi?ext=heatmap)  </div>
   <div>
-<pre>
+<p>
 
 
 
@@ -21,7 +21,7 @@
 
 
   
-</pre>
+</p>
   </div>
 
 <h3 align="left">Connect with me:</h3>
